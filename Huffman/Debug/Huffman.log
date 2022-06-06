@@ -1,0 +1,14 @@
+﻿  Huffman.cpp
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(50,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(59,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(62,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(71,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(74,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(84,51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(231,35): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(239,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(249,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(282,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Steffen\source\repos\Huffman\Huffman\Huffman.cpp(331,31): warning C4018: '<': signed/unsigned mismatch
+  Huffman.vcxproj -> C:\Users\Steffen\source\repos\Huffman\Debug\Huffman.exe
